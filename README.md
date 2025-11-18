@@ -8,6 +8,20 @@
 2. **上传分片**: 将每个分片上传到 0g-storage 网络
 3. **下载分片**: 从 0g-storage 网络下载所有分片
 4. **断点续传**: 失败后可以从未完成的分片继续上传，状态保存在 `split-dir/upload_state.json`
+5. **文件合并**: 下载分片后自动将原来文件merage:
+
+
+下面是程序使用中的截图：
+分片上传：
+<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/4d4b2927-fe6a-47e5-8e30-646b47518529" />
+
+下载文件：
+<img width="1433" height="474" alt="image" src="https://github.com/user-attachments/assets/57eb04a5-5463-4e06-9f6f-bbd057a7da8d" />
+
+![Uploading image.png…]()
+
+链上记录：
+<img width="2409" height="540" alt="image" src="https://github.com/user-attachments/assets/8aee062a-9fe0-4903-a24a-240201aa44c8" />
 
 ## 使用方法
 
