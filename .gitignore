@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+.DS_Store
+.idea/
+.vscode/
+
+0g-storage-client
+.ip-location-cache.json
+
+# tests
+/target
+tests/**/__pycache__
+tests/tmp/**
+
+# 忽略分片和下载目录
+chunks/
+downloads/
+*.bin
+*.tmp
+
+# 忽略大文件或中间产物
+*.log
+*.dat
+
+# 其他你不想上传的文件或目录
