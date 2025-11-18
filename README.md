@@ -84,16 +84,7 @@ go build -o split_upload_download.exe main.go
   --expected-replica 2 \
   --routines 8
 
-./split_upload_download \
-  --file "E:\Users\26068\Downloads\飞智映射激活工具6.1.3.0.zip" \
-  --url  https://evmrpc-testnet.0g.ai \
-  --key 0x66bb489f653cbddc80838abc86a953d91e246fee18720f4c828b9427f9d39535 \
-  --indexer https://indexer-storage-testnet-turbo.0g.ai/ \
-  --split-dir ./chunks \
-  --download-dir ./downloads \
-  --expected-replica 2 \
-  --routines 8
-```
+
 
 ## 输出
 
