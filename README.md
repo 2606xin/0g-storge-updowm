@@ -1,6 +1,6 @@
 # 4GB 文件切分上传下载示例
 
-这个示例程序演示了如何使用 0g-storage-client 将一个 4GB 的文件切分成 10 个 400MB 的分片，然后上传到 0g-storage 网络，并下载这些分片。
+这个示例程序演示了如何使用 0g-storage-client 将一个 4GB 的文件切分成 10 个 400MB 的分片，然后上传到 0g-storage 网络，并下载这些分片。工程再example/split_upload_download下
 
 ## 功能
 
@@ -13,15 +13,18 @@
 
 下面是程序使用中的截图：
 分片上传：
-<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/4d4b2927-fe6a-47e5-8e30-646b47518529" />
 
-下载文件：
-<img width="1433" height="474" alt="image" src="https://github.com/user-attachments/assets/57eb04a5-5463-4e06-9f6f-bbd057a7da8d" />
-
-![Uploading image.png…]()
+<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/d27f481f-0125-4832-8b08-3d2384eb2ef0" />
 
 链上记录：
 <img width="2409" height="540" alt="image" src="https://github.com/user-attachments/assets/8aee062a-9fe0-4903-a24a-240201aa44c8" />
+<img width="2409" height="540" alt="image" src="https://github.com/user-attachments/assets/3ab41a88-80bc-4a87-88b9-ec62d28c54fb" />
+
+下载文件：
+<img width="1433" height="474" alt="image" src="https://github.com/user-attachments/assets/57eb04a5-5463-4e06-9f6f-bbd057a7da8d" />
+合并文件：
+<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/4d4b2927-fe6a-47e5-8e30-646b47518529" />
+
 
 ## 使用方法
 
