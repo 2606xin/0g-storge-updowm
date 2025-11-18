@@ -23,7 +23,10 @@
 下载文件：
 <img width="1433" height="474" alt="image" src="https://github.com/user-attachments/assets/57eb04a5-5463-4e06-9f6f-bbd057a7da8d" />
 合并文件：
-<img width="1437" height="596" alt="image" src="https://github.com/user-attachments/assets/4d4b2927-fe6a-47e5-8e30-646b47518529" />
+<img width="1410" height="555" alt="image" src="https://github.com/user-attachments/assets/ed30fa2f-9ba5-4d9a-af62-e1dd15c91416" />
+<img width="1734" height="696" alt="image" src="https://github.com/user-attachments/assets/2cfe6a75-18f9-481e-9608-20d4c6d351c8" />
+<img width="1743" height="774" alt="image" src="https://github.com/user-attachments/assets/49c148c2-1bf8-4c90-bf46-5a332ea56e81" />
+
 
 
 ## 使用方法
