@@ -18,7 +18,7 @@
 
 链上记录：
 <img width="2409" height="540" alt="image" src="https://github.com/user-attachments/assets/8aee062a-9fe0-4903-a24a-240201aa44c8" />
-<img width="2409" height="540" alt="image" src="https://github.com/user-attachments/assets/3ab41a88-80bc-4a87-88b9-ec62d28c54fb" />
+<img width="2361" height="543" alt="image" src="https://github.com/user-attachments/assets/3456b8c7-1ab4-49ba-8669-3b7853cca20f" />
 
 下载文件：
 <img width="1433" height="474" alt="image" src="https://github.com/user-attachments/assets/57eb04a5-5463-4e06-9f6f-bbd057a7da8d" />
